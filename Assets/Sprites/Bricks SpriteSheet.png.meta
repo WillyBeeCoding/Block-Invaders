@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 1ead38a136d20a046958d078a8ba256e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NormalBlock
+    21300002: PU_ExtraLifeBlock
+    21300004: CopperBlock
+    21300006: GoldBlock
+    21300008: RedBlock
+    21300010: PU_PaddlePlusBlock
+    21300012: CopperBlock1
+    21300014: GoldBlock1
+    21300016: OrangeBlock
+    21300018: PU_StickyShotBlock
+    21300020: CopperBlock2
+    21300022: GoldBlock2
+    21300024: YellowBlock
+    21300026: PU_TwinPaddlesBlock
+    21300028: CopperBlock3
+    21300030: GoldBlock3
+    21300032: GreenBlock
+    21300034: PU_SuperBallBlock
+    21300036: SteelBlock
+    21300038: PlatinumBlock
+    21300040: CyanBlock
+    21300042: AU_FastBallBlock
+    21300044: SteelBlock1
+    21300046: PlatinumBlock1
+    21300048: BlueBlock
+    21300050: AU_PaddleLiftBlock
+    21300052: SteelBlock2
+    21300054: PlatinumBlock2
+    21300056: PurpleBlock
+    21300058: AU_ShortPaddleBlock
+    21300060: SteelBlock3
+    21300062: PlatinumBlock3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NormalBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 644
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PU_ExtraLifeBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 644
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CopperBlock
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 644
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GoldBlock
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 644
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PU_PaddlePlusBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 600
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CopperBlock1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 600
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GoldBlock1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 600
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 556
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PU_StickyShotBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 556
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CopperBlock2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 556
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GoldBlock2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 556
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PU_TwinPaddlesBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 512
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CopperBlock3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 512
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GoldBlock3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 512
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 468
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PU_SuperBallBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 468
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SteelBlock
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 468
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlatinumBlock
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 468
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyanBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 424
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AU_FastBallBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 424
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SteelBlock1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 424
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlatinumBlock1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 424
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AU_PaddleLiftBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 380
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SteelBlock2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 380
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlatinumBlock2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 380
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PurpleBlock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AU_ShortPaddleBlock
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 336
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SteelBlock3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlatinumBlock3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 336
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
